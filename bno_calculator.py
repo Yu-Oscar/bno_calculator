@@ -1,6 +1,9 @@
 from datetime import datetime, timedelta
 from collections import defaultdict
 
+# e-visa link
+# https://www.gov.uk/view-prove-immigration-status
+
 # Given leave periods where format is (departure, return)
 leave_dates = [
     ("7/6/2023", "20/9/2023"),
